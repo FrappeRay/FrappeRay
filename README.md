@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrappeRay (Raymond Lam)
 - 👀 I’m a frontend engineer @ Canva
-- 🌱 Graduated from UNSW in 2022, previous Full Stack Developer @ Arista
+- 🌱 UNSW Alumni, previous Full Stack Developer @ Arista Networks
 - 📫 How to reach me:
   - [LinkedIn](https://au.linkedin.com/in/raymondlamsydney)
 
